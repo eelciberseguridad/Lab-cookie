@@ -45,8 +45,7 @@ Lab-cookie/
 
 ## PARTE 1 --- Descargar el laboratorio
 
-Si descargaste el ZIP desde GitHub, descomprimilo y entrá en la carpeta.
-Si lo clonaste con Git:
+Clonasción con Git:
 
 ``` bash
 git clone https://github.com/eelciberseguridad/Lab-cookie.git
