@@ -1,4 +1,4 @@
-# EEL CIBERSEGURIDAD --- Laboratorio de reutilización de una cookie de sesión
+# EEL CIBERSEGURIDAD - Laboratorio de reutilización de una cookie de sesión
 
 Laboratorio educativo y deliberadamente vulnerable para observar, de
 forma local y controlada, cómo una aplicación web mantiene una sesión
